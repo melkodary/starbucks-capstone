@@ -131,3 +131,6 @@ dmypy.json
 # Mac & pycharm stuff
 .DS_Store
 .idea
+
+# Pickle files:
+*.pkl
